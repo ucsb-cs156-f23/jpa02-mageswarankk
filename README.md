@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-f23/jpa02-mageswarankk
 
-Deployed at: https://jpa02-mageswarankk.dokku-09.cs.ucsb.edu
+Deployed at: http://jpa02-mageswarankk.dokku-09.cs.ucsb.edu
 
 
 # About this repo
